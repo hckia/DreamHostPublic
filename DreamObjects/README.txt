@@ -1,0 +1,1 @@
+This repository is a list of script for use with DreamHost's DreamObjects using the boto Library. Anyone and everyone is free to fork, pull, push this repo for their own use, or for the benefit of all DreamHost users.
